@@ -38,7 +38,7 @@ require('lazy').setup({
   "mbbill/undotree",
   --which key (to see keymaps)
   "folke/which-key.nvim",
-  --vimtex (for latex use)
-  "lervag/vimtex",
+  --latex auto compile plugin
+  "frabjous/knap",
 })
 

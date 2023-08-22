@@ -9,4 +9,4 @@ require("plugins.treesitter")
 require("plugins.harpoon")
 require("plugins.undotree")
 require("plugins.which-key") --gotta configure it
-
+require("plugins.knap")
